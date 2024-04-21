@@ -1,7 +1,5 @@
 # Car Sales Dashboard
 
-### Dashboard Link: Car Sales Dashboard
-
 ## Problem Statement
 
 This dashboard is designed to provide insights into car sales performance, enabling effective tracking and analysis of critical key performance indicators (KPIs). By visualizing sales data, it helps in understanding sales trends, identifying opportunities for growth, and making data-driven decisions.
