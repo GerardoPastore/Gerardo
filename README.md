@@ -33,37 +33,46 @@ Using visual level filter from the filters pane, was used basic filtering.
 ## Insights
 
 - **Sales Overview:** Provides a snapshot of sales performance, highlighting trends and variations.
+  
 ![YTD Total Sales](https://github.com/GerardoPastore/Gerardo/assets/157154758/3838ee37-951d-4e24-b567-e930347a4449)
 
 
 - **Average Price Analysis:** Offers insights into pricing trends, helping in pricing strategy formulation.
+  
 ![YTD AVG Price](https://github.com/GerardoPastore/Gerardo/assets/157154758/3fba7c54-c455-470c-b58b-58854f42b4ab)
 
 
 - **Cars Sold Metrics:** Tracks the number of cars sold over time, indicating demand fluctuations.
+  
 ![YTD Cars Sold](https://github.com/GerardoPastore/Gerardo/assets/157154758/0693da5f-558f-4e40-838d-d7f8f8569cb8)
 
 
 ## Charts Requirement
 
 1. **YTD Sales Weekly Trend:** Displays a line chart illustrating the weekly trend of YTD sales.
+   
 ![YTD Sales Weekly Trend](https://github.com/GerardoPastore/Gerardo/assets/157154758/1ea633d9-60fb-4e96-a857-98e19f3e1f6f)
 
 
-2. **YTD Total Sales by Body Style:** Visualizes the distribution of YTD total sales across different car body styles using a Pie chart.
+3. **YTD Total Sales by Body Style:** Visualizes the distribution of YTD total sales across different car body styles using a Pie chart.
+   
 ![PYTD Total Sales By Body Style](https://github.com/GerardoPastore/Gerardo/assets/157154758/5e29ac40-2d0b-492b-9e5d-0c7c5e747888)
 
-3. **YTD Total Sales by Color:** Presents the contribution of various car colors to the YTD total sales through a pie chart.
+5. **YTD Total Sales by Color:** Presents the contribution of various car colors to the YTD total sales through a pie chart.
+   
 ![PYTD Total Sales by Color](https://github.com/GerardoPastore/Gerardo/assets/157154758/5894b90a-01ac-44d4-bdfe-3f78bf545a38)
 
 
-4. **YTD Cars Sold by Dealer Region:** Showcases the YTD sales data based on different dealer regions using a map chart.
+7. **YTD Cars Sold by Dealer Region:** Showcases the YTD sales data based on different dealer regions using a map chart.
+   
 ![YTD Cars Sold by Dealer Region](https://github.com/GerardoPastore/Gerardo/assets/157154758/2ef99c5e-c4df-443c-ad8b-6bb15935530a)
 
 
-5. **Company-Wise Sales Trend in Grid Form:** Provides a tabular grid displaying the sales trend for each company.
+9. **Company-Wise Sales Trend in Grid Form:** Provides a tabular grid displaying the sales trend for each company.
+    
 ![Company-Wise Sales Trend in Grid Form](https://github.com/GerardoPastore/Gerardo/assets/157154758/705b46cc-9b4d-4fdb-b0e3-5cacf517ba01)
 
 
-6. **Details Grid Showing All Car Sales Information:** Presents all relevant information for each car sale, including model, body style, color, sales amount, dealer region, and date.
+11. **Details Grid Showing All Car Sales Information:** Presents all relevant information for each car sale, including model, body style, color, sales amount, dealer region, and date.
+    
 ![Details Grid Showing All Car Sales Information](https://github.com/GerardoPastore/Gerardo/assets/157154758/918c81ef-fbde-4dd3-9e71-6fb458e19b88)
